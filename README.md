@@ -11,27 +11,27 @@ Log Source: Security Log
 
 <h2>Program Walk-Through</h2>
 <p align="center">
-Launch Event Viewer:
+1️⃣ Launch Event Viewer:
 <br/>
 Open Event Viewer to begin searching for failed logon events.
 <br/>
 <img width="450" height="244" alt="eventvwr msc " src="https://github.com/user-attachments/assets/afe18348-ddb6-4405-b21b-3080cd5fa73f" />
 <p align="center">
-Filter Current Log 4625
+2️⃣ Filter Current Log 4625
 <br/>
 Filtering the Security log by Event ID 4625 to isolate failed logon attempts.
 <br/>
 <img width="548" height="554" alt="Code 4625 to Filter Failed Logins" src="https://github.com/user-attachments/assets/170f902a-3bab-44cd-8005-4dea7354c022" />
 
 <p align="center">
-Filtered 4625 Results
+3️⃣ Filtered 4625 Results
 <br/>
 Filtered Security log shows 6 failed logon events. 
 <br/>
 <img width="1016" height="765" alt="4625 Failed Results" src="https://github.com/user-attachments/assets/1e0a531b-45f8-4b84-bf99-1bafcc7b3e54" />
 
 <p align="center">
-Failed Logon Details 
+4️⃣ Failed Logon Details 
 <br/>
 Detailed view of Event 4625 showing the targeted account, failure reason, and confirmation of failed logon attempt.
 <br/>
