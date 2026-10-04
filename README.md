@@ -1,7 +1,7 @@
 # Windows-Event-Log-Investigation
 Windows failed login investigation using Event Viewer and Security Event ID 4625 to analyze authentication failures, source information and suspicious login patterns. 
 
-<h2>Environemnt</h2>
+<h2>Environment</h2>
 <p align="center">
 OS: Windows 10 (VirtualBox VM)
 <p align="center">
